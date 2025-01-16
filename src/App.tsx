@@ -1,15 +1,7 @@
-import './App.css'
+import { Outlet } from 'react-router-dom';
 
-function App() {
+const App = () => {
+  return <Outlet />;
+};
 
-
-  return (
-    <>
-     
-      <h1>test</h1>
-      
-    </>
-  )
-}
-
-export default App
+export default App;
