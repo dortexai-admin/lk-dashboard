@@ -1,5 +1,5 @@
 export const rootPaths = {
-  root: '/',
+  root: '/lk-dashboard',
   pageRoot: 'pages',
   authRoot: 'authentication',
   errorRoot: 'error',
