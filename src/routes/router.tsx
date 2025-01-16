@@ -82,7 +82,7 @@ const router = createBrowserRouter(
     },
   ],
   {
-    basename: '/LocalKonnect/',
+    basename: '/lk-dashboard/',
   },
 );
 

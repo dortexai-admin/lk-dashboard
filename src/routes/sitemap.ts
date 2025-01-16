@@ -22,7 +22,7 @@ const sitemap: MenuItem[] = [
   {
     id: 'dashboard',
     subheader: 'Overview',
-    path: '/',
+    path: 'dashboard',
     icon: 'hugeicons:grid-view',
     active: true,
   },
